@@ -103,8 +103,10 @@ main {
     overflow: hidden;
 }
 
+
+
 main.dark {
-    color: #ec0aec;
+    color: #fff;
     background: #000;
 }
 
