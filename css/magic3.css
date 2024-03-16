@@ -2,8 +2,7 @@
 .clearfix:before, .clearfix:after { content: ''; display: table; }
 .clearfix:after { clear: both; }
 
-@font-face {font-family: MarkPro-Light; src: url("../fonts/MarkPro/MarkPro-Light.otf");}
-@font-face {font-family: MarkPro-Book; src: url("../fonts/MarkPro/MarkPro-Book.otf");}
+
 @font-face {font-family: MarkPro-Medium; src: url("../fonts/MarkPro/MarkPro-Medium.otf");}
 @font-face {font-family: MarkPro-Bold; src: url("../fonts/MarkPro/MarkPro-Bold.otf");}
 @font-face {font-family: MarkPro-Heavy; src: url("../fonts/MarkPro/MarkPro-Heavy.otf");}
